@@ -3,18 +3,6 @@
 This repository contains an implementation of arbitrary style transfer running fully
 inside the browser using TensorFlow.js.
 
-Demo website: https://reiinakano.github.io/arbitrary-image-stylization-tfjs
-
-Blog post with more details: https://magenta.tensorflow.org/blog/2018/12/20/style-transfer-js/
-
-### Stylize an image
-
-![stylize](readme_img/stylize.jpg)
-
-### Combine styles
-
-![combine](readme_img/combine.jpg)
-
 ## FAQ
 
 ### What is this?
@@ -123,8 +111,4 @@ This demo could not have been done without the following:
 * [Google Colaboratory](https://colab.research.google.com/), with which I was able 
 to do all necessary training using a free(!) GPU.
 
-As a final note, I'd love to hear from people interested 
-in making a suite of tools for artistically manipulating images, kind of like 
-[Magenta Studio](https://magenta.tensorflow.org/studio)
-but for images. Please reach out if you're planning to build/are 
-building one out!
+
